@@ -144,4 +144,4 @@ For support, create an issue in the repository or contact the maintainer.
 
 ---
 
-Made with ❤️ by [Ayush Agrawal]
+Made with ❤️ by [Pallavi Chaudhary]
