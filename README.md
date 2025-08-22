@@ -43,7 +43,7 @@ A modern, feature-rich workspace management system built with PHP and MySQL. Des
 2. **Setup**
    ```bash
    # Clone the repository
-   git clone https://github.com/AyushAgrawal2004/DeskFlow.git
+   git clone https://github.com/pallavi-325/DeskFlow.git
 
    # Navigate to project directory
    cd DeskFlow
